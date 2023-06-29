@@ -23,6 +23,18 @@ public Persona(String nombre, String apellido, int id){
 
 }
 
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public int getId() {
+        return id;
+    }
+
     
 
 
